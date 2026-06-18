@@ -1,0 +1,17 @@
+{
+  "acervo": [
+    {
+      "tipo": "DVD",
+      "titulo": "Interestelar",
+      "autor_ou_editora": "Christopher Nolan e Jonathan Nolan",
+      "codigo": "1",
+      "disponivel": true
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Vitor Gabriel Bueno Reis da Silva Salve Jorge Mendes Rodrigues Junior Neto Crispin Antonio Carlos",
+      "matricula": "4416"
+    }
+  ]
+}
